@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Prince, at Richmond, this present yeere. 1606. By B: Charier, D: of Diuinitie, and one of the Prince his chaplaines</title>
+            <author>Carier, Benjamin, 1566-1614.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11965</idno><idno type="EEBO-CITATION">99843250</idno>
+  <idno type="VID">177555</idno>
+  <idno type="EEBO-PROQUEST">2248619066</idno>
+  <idno type="STC">STC 4622</idno>
+  <idno type="STC">ESTC S107551</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99843250e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177555)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1060:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Prince, at Richmond, this present yeere. 1606. By B: Charier, D: of Diuinitie, and one of the Prince his chaplaines</title>
+                  <author>Carier, Benjamin, 1566-1614.</author>
+               </titleStmt>
+               <extent>[26] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. R[oberts] for Edmund Matts, dwelling at the signe of the hand &amp; plough in Fleetstreete,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1606]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On James I, 15.</note>
+                  <note>Publication date from STC.</note>
+                  <note>Signatures: A-C4, D2 (-A1).</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  James I, 15 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177555:1"/>
+            <pb facs="tcp:177555:1"/>
+            <p>A Sermon preached before the Prince, at <hi>Richmond,</hi> this present yeere, 1606.</p>
+            <p>By <hi>B: Charier,</hi> D: of Diuinitie, and one of the Prince his Chaplaines.</p>
+            <figure>
+               <figDesc>printer's device of J. Roberts (McKerrow 112)</figDesc>
+               <q>NOSCE TE IPSVM</q>
+               <q>NE QVID NIMIS</q>
+               <q>LOVE AND LYVE</q>
+            </figure>
+            <p>AT LONDON, ❧ Printed by I. R. for <hi>Edmund Matts,</hi> dwelling at the signe of the hand &amp; <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Fleetstreete</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177555:2"/>
+            <pb facs="tcp:177555:2"/>
+            <epigraph>
+               <bibl>Iames. 1. verse 15.</bibl>
+               <q>
+                  <p>Lust, when it hath conceiued, bringeth forth sinne, and sinne, when it is finished, bring<g ref="char:EOLhyphen"/>eth forth death.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Ll wicked men haue been wont to lay the fault of their sinnes vpon God: but the holy Apostle in this place teacheth vs, that in inquiring the cause of sinne, there is no further search to be made, then to our owne lust. In the description whereof, we are heere to obserue foure things: First, the concepti<g ref="char:EOLhyphen"/>on of sinne, <hi>Lust when it hath conceiued;</hi> then the birth of sinne, <hi>it bringeth forth sinne;</hi> thirdly, the growth of sinne, <hi>sinne when it is finished;</hi> and lastly the fruite of sinne, <hi>it bringeth forth death▪</hi>
+            </p>
+            <p>
+               <hi>Lust, when it hath conceiued, it bringeth foorth sinne, and sinne when it is finished, it bringeth forth death.</hi> Of which that I may speake profitably, to the killing of sinne, to the preuenting of death, and to the curing of soules, I shall desire you to ioyne
+<pb facs="tcp:177555:3"/> with mee, in humble and hartie prayer vnto Al<g ref="char:EOLhyphen"/>mightie GOD, in the Name and mediation of his sonne Iesus Christ, that it would please him to assist vs with his holie Spirit, and to graunt to eue<g ref="char:EOLhyphen"/>rie one of vs true repentance for all our sinnes, a liuelie fayth in all his promises, a godlie conuersa<g ref="char:EOLhyphen"/>tion according to his holie commaundements in all our liues.</p>
+            <p>And in these prayers, let vs not be mindfull of our selues alone, but as feeling members of the misticall bodie of Iesus Christ, let vs pray for all our fellow members, dispersed ouer the face of the whole earth; and more especiallie, let vs pray for this Church wherein we liue; and heerein for the Kings most excellent Maiestie, <hi>Iames</hi> by the grace of GOD, King of great Brittaine, Fraunce, and Ireland, defender of the faith, and supreame Go<g ref="char:EOLhyphen"/>uernour of this Church, in causes both Ecclesiasti<g ref="char:EOLhyphen"/>call and Ciuill. For our gracious Queene <hi>Anne,</hi> for the noble Prince <hi>Henry,</hi> and for all that Royall familie, that it may please GOD to inlighten thē with his Spirit, to inrich them with his Grace, to preserue them with his mercie, and to crowne them with his glory.</p>
+            <p>Let vs pray for all that are of his Maiesties most honourable priuie Councell, for all the Nobilitie, for all the Clergie, by what name or title soeuer
+<pb facs="tcp:177555:3"/> they be called; for both the Vniuersities, Cam<g ref="char:EOLhyphen"/>bridge, and Oxford; for all the Commons of this Land; for all that are afflicted, especially those that fight vnder the banner of Christ, and labour vnder the burden of their sinnes.</p>
+            <p>Last of all▪ for our selues heere gathered toge<g ref="char:EOLhyphen"/>ther, for the hearing and speaking of Gods most holie Word, beseeching him to make it vnto vs, as it is in it selfe, a Word of power to the beating downe of sinne in vs, and to the raising vs againe vnto newnesse of life: that we beeing made con<g ref="char:EOLhyphen"/>formable vnto our Sauiour Christ his death, and humiliation in this life, may be made pertakers of his Resurrection, and glorification in the life to come. In whose Name let vs conclude our pray<g ref="char:EOLhyphen"/>ers, in that forme which hee himselfe hath taught vs in his holie Gospell, saying▪ <hi>Our Father which art in heauen▪ &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Lust, when it hath conceiued, bringeth forth sin, and sinne, when it is finished, bringeth forth death.</hi>
+            </p>
+            <p>You see heere the Apostle, in the description of sinne, vseth an Allegorie, taken from the genera<g ref="char:EOLhyphen"/>tion of man. And if you doe obserue it, you shall find, that there is <hi>eadem methodus generationis, et corruptionis,</hi> the same methode in the naturall ge<g ref="char:EOLhyphen"/>neration of man vnto life, and in the vnnaturall
+<pb facs="tcp:177555:4"/> corruption of man vnto death. Heere is a Father, and a Mother, and a Midwife, and a Nurse.</p>
+            <p>The Father of sinne, is the deuill, the Mother is Lust, the Midwife is Reason, the Nurse is Hi<g ref="char:EOLhyphen"/>pocrisie. For the deuill by wicked suggestion be<g ref="char:EOLhyphen"/>getteth sinne as a Father, Concupiscence by wic<g ref="char:EOLhyphen"/>ked imaginations conceiueth sinne as a Mother, Reason, by wicked consent, bringeth forth sinne as a Midwife, and Hypocrisie by wicked conceale<g ref="char:EOLhyphen"/>ment, bringeth vp sinne as a Nurse.</p>
+            <p>When Concupiscence lay first in Child-bed in the great Chamber Paradise, and gaue life vnto Sinne, that sinne might fill all the World vvith death, shee tooke this very order for the bringing forth of her first begotten, as may appeare in the third chapter of Genesis. First she kept companie with the deuill, who suggested vnto her, distrust in GOD, and trust in herselfe, which is the seede of all sinnes.</p>
+            <p>Secondly, shee conceiued sinne by thinking of it: The forbidden fruite was faire to the eye, plea<g ref="char:EOLhyphen"/>sant to the tast, and a thing to be desired for the ex<g ref="char:EOLhyphen"/>perience of good and euill.</p>
+            <p>Thirdly, she came vnto <hi>Adam,</hi> and got him to consent, shee gaue vnto him, and he did eate.</p>
+            <pb facs="tcp:177555:4"/>
+            <p>Lastly, least her young borne babe should per<g ref="char:EOLhyphen"/>rish for want of keeping, shee cōmitted it to Nurse Hypocrisie, who sowed together the figge leaues of excuse, and nursed it by concealing it.</p>
+            <p>This old beldame Concupiscence, the Mother of sinne, is now very old, aboue 5000. yeeres, and yet she is not past children.</p>
+            <p>The deuill was neuer more busie to beget sinne, Lust neuer more pregnant to conceiue sinne, Rea<g ref="char:EOLhyphen"/>son neuer more easie to be intreated to bring forth sinne, and Hypocrisie neuer more ready at hand to set new-borne sinne vpon her lap, and to dandle it by excusing it.</p>
+            <p>And for the first, the Father of sinne the deuill, hee doth not onely beget those horrible villanies, and prodigious exployts, which euery one may perceiue to be his children, and to come from hell: but hee is much more dangerous, whilst hee doth secretly infinuate himselfe vnder another shape, and come vnto vs like an Angell of light, for by this meanes, there is no member of our bodies, nor no corner of our soules, wherein he hath not a bed of fornication.</p>
+            <p>Hee begetteth falshood in our harts, lightnes in our heads, adulterie in our eyes, blaspemie in our
+<pb facs="tcp:177555:5"/> tongues, oppression in our handes, and intempe<g ref="char:EOLhyphen"/>rancie in our whole bodies. Hee turneth beautie into wantonnesse, strength into violence, wit into wilfulnesse, learning into discention, deuotion in<g ref="char:EOLhyphen"/>to superstition, religion into treason. Alwaies cor<g ref="char:EOLhyphen"/>rupting the meaner gifts with hypocrisie, as put<g ref="char:EOLhyphen"/>ting <hi>Colocinthis</hi> into the poridge pot, and the grea<g ref="char:EOLhyphen"/>ter with pride, as putting <hi>Cantharides</hi> into the oyle pot.</p>
+            <p>Now for the preuenting of the deuill, the father of sinne, that hee doe not beget sin vpon vs, there be two thinges necessary, first, to see the deuill by fayth, and then to shut him out by good works.</p>
+            <p>For the first, it is a matter of faith to see the de<g ref="char:EOLhyphen"/>uill: for hee that doth not belieue there is a deuill, doth not belieue there is a God. And now adayes, fayth is waxed so very weake, that many beginne to make question whether there be a deuill or no, because they neuer saw any. Indeede in the time of superstition, the deuill did often appeare in some bodily shape, and hee had reason for it: for by that meanes hee draue men forward vnto desperation, to which in those dayes they were very much in<g ref="char:EOLhyphen"/>clined: but in these dayes of prophanenes, the case is altered, he will not now appeare in his likenesse, least he should hold men backe from presumption, vnto which they are running head-long.</p>
+            <pb facs="tcp:177555:5"/>
+            <p>If we will see any thing with our bodily eyes, it is requisite that the obiect be rightly placed, that is, that it be not placed on the sunne side wee stand, nor that it be not placed too neere vs. Wee can<g ref="char:EOLhyphen"/>not see a thing on the sunne side wee are, neither behind vs, or if it be placed iust beside vs.</p>
+            <p>If a man would plainly behold one on this side of the roome, he must goe to the other side, so hee that would see the deuill in pride, shall neuer per<g ref="char:EOLhyphen"/>ceiue him as long as he is proude, he stands on the same side the deuill is, but let him goe ouer to the other side of humilitie, and then he shall plainly see the deuill in his pride: so in drunkennesse, so in whoredome, so in any other sinne; if a man will see the deuill, he must first goe to the opposite ver<g ref="char:EOLhyphen"/>tues, before he can possible perceiue him.</p>
+            <p>The second thing is, that we doe not stand too neere, for if our eye be too neere the obiect, the beames of the sight will be cōfounded; there must be a mediocrity of distance: For as in the Optikes, if a man would perceiue the arte of a prospectiue picture, hee must goe a distance from it, and looke with artificiall eyes, or Spectacles fitted for the purpose, euen so, if a man would perceiue this prospect of the deuill, with all his deepe shadowes, and profound deceits, he must first endeuor to goe from him, that he may perceiue him: &amp; then looke
+<pb facs="tcp:177555:6"/> not with the eyes of nature, or reason, which will neuer, or very hardly discerne him, but with the eyes of faith, and of Gods word, which will plain<g ref="char:EOLhyphen"/>lie discouer him.</p>
+            <p>The second meanes to preuent his suggestions, is to shut him out by good workes. <hi>Adam</hi> was ap<g ref="char:EOLhyphen"/>pointed by GOD to worke in Paradise, and to dresse the Garden; as long as hee was at his worke he was safe enough, but when he gaue himselfe to idlenes, and to heare the talke &amp; dalliance of <hi>Eue,</hi> he was subiect to the deuils temptation. And ther<g ref="char:EOLhyphen"/>fore S. <hi>Hierome</hi> dooth very fitly exhort his friend <hi>Rusticus</hi> that hee would be alwaies dooing some good thing, <hi>Vt quando diabolus venit, inveniat oc<g ref="char:EOLhyphen"/>cupatum,</hi> that the doores may be shut, and hee not at leysure to giue him entertainement.</p>
+            <p>For as a birde, as long as shee is flying is safe e<g ref="char:EOLhyphen"/>nough from the Fowler, but if she sit still vpon the perch, shee is euery bodies marke, euen so a man, who was borne to labour, as a bird to flie, as long as he is studying, reading, praying, or about any honest exercise, or worke of his vocation, the de<g ref="char:EOLhyphen"/>uill will not much meddle with him, hee hath no opportunitie, he cannot hit him; but if once a man giue ouer himselfe vnto idlenesse, and dissolue his minde with sloth and negligence, hee is a fayre
+<pb facs="tcp:177555:6"/> marke for the deuill to shoote at, hee will be sure to be suggesting the seede of one sinne or another.</p>
+            <p>Well then, if we will exclude the deuill, let vs also be alwaies tilling the Paradise of our soules by one good worke, or other, that GOD may de<g ref="char:EOLhyphen"/>light to walke therein: and so Christ himselfe will become <hi>Ianitor cordis</hi> vnto vs, and will be as rea<g ref="char:EOLhyphen"/>die to be the doore-keeper of our harts, to keepe out our enemies, as <hi>Dauid</hi> was willing to be the Doore-keeper of Gods house, to let in his friends.</p>
+            <p>When you haue thus kept out the deuill, the Father of sinne, the next care is to looke to Lust, or Concupiscence the mother of sinne. Where by the way we are to obserue, that by Concupiscence is meant, not onely the desire of fleshly company, but also the generall corruption of our nature, prone to all sinne. So the Apostle taketh it in the fift to the Galathians, where hee reckneth vp as fruites of the flesh, not onely adulterie, fornicati<g ref="char:EOLhyphen"/>on, and vncleanenesse, but also drunkennes, mur<g ref="char:EOLhyphen"/>der, enuie, Idolatry, witchcraft, and such like.</p>
+            <p>For Concupiscence is as fruitfull of all manner of sinne, as the Egyptian Ilands are of all manner of vermine, of which <hi>Diodorus Siculus</hi> reporteth, that for the speedines of generation, you may see
+<pb facs="tcp:177555:7"/> the former part a formed Ratte, &amp; the hinder part an vnformed lumpe in the same peece of earth.</p>
+            <p>The deuill hath no sooner suggested the seed of Pride in Honor, but Lust conceiueth it by think<g ref="char:EOLhyphen"/>ing of it, and trauaileth in the imagination of high places, and groweth bigge with Sedition and Re<g ref="char:EOLhyphen"/>bellion; and as soone as it can get Opportunitie, it bringeth it foorth.</p>
+            <p>The deuill hath no sooner suggested the seed of Wrath in priuate offences, but Lust conceiueth it, by thinking of it, and trauaileth with the sweetnes of Reuenge, and groweth bigge with Murther and Crueltie, &amp; as soone as it can get Opportunitie, it bringeth it forth.</p>
+            <p>The deuill hath no sooner suggested the seed of Couetousnesse in Gaine, but Lust conceiueth it, by thinking of it, and imagineth to it selfe quirkes, and aduantages of Law, and groweth bigge with Iniurie and Oppression, and as soone as it can get Opportunitie, it bringeth it forth.</p>
+            <p>The deuill hath no sooner suggested the seed of Vnchastnesse in Beautie, or any wanton speech or behauiour, but Lust conceiueth it, by thinking of it, and trauaileth in the conceit of Fleshly pleasure, and groweth bigge with Adulterie, and Fornica<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:177555:7"/> and as soone as it can get Opportunitie, it bringeth it forth.</p>
+            <p>In a word, the deuill hath no sooner suggested the seede of any sinne in any temptation, but Lust conceiueth it, by thinking of it, and dooth growe quicke and bigge with the fruites of Wickednes, and as soone as it can get Opportunitie, it bring<g ref="char:EOLhyphen"/>eth it foorth: so fruitfull is Concupiscence of all manner of sinne.</p>
+            <p>Hee then that will preuent the conception of sinne, must watch Concupiscence, &amp; looke to his inward thoughts, and affections very carefully, &amp; not onely make conscience of his deeds and of his words, but euen of his most secrete thoughts, and inward imaginations; for they that accustome thēselues to euill thoughts, can hardly bring forth good words, but neuer good deedes.</p>
+            <p>As the Corne is, so will the Floure be, if the Floure be badde, the fault is not in the Milstones that ground it, but in the Miller that put in the Corne; the vnderstanding and thoughts of a man, are like Milstones, they cannot chuse but grinde whatsoeuer they receiue, and yeeld a Floure both in words and deedes accordingly.</p>
+            <p>As the wood is, so will the fire be, of wet and vnsauerie wood, you shall haue a smokey and vn<g ref="char:EOLhyphen"/>wholsome
+<pb facs="tcp:177555:8"/> fire, but if the wood be sweet and dry, it will perfume the roome with a very good and pleasant ayre; euen so it is in the soule, such wood as you lay on in your thoughts, such fire shall you haue in your actions.</p>
+            <p>The Wise man in his best instructions to wise<g ref="char:EOLhyphen"/>dome giueth this rule, Prouerbs 4, 23. <hi>Cum omni diligentia obserua cor tuum,</hi> If thou wilt bee wise, looke well not onely to thy hands and thy feet, al<g ref="char:EOLhyphen"/>though they also are to be looked vnto, but espe<g ref="char:EOLhyphen"/>cially looke to thy hart, and thy inward affections, and thinke vpon thy thoughts.</p>
+            <p>That vnderstanding is the most diuine, which is reflected, and doth inwardly behold it selfe, and GOD, that which is proiected, and gazeth vpon outward things, is common to vs with beasts, and those likewise are the best affections, that are kept at home, &amp; occupied in the examination of them<g ref="char:EOLhyphen"/>selues.</p>
+            <p>You know when <hi>Dinah</hi> would needes be gad<g ref="char:EOLhyphen"/>ding abroad, to see the Daughters of <hi>Canaan,</hi> Ge<g ref="char:EOLhyphen"/>nesis 34. she was defloured by <hi>Sechem</hi> the sonne of <hi>Hamor.</hi> And if we suffer our affections to be night<g ref="char:EOLhyphen"/>walkers, they will certainly returne home quicke with child.</p>
+            <pb facs="tcp:177555:8"/>
+            <p>Concupiscence in it selfe, as it is a facultie of the soule, and a gift of GOD, is no sinne, but may be made a helper vnto Vertue, if it be well looked vn<g ref="char:EOLhyphen"/>to, although I confesse Concupiscence is cōmon<g ref="char:EOLhyphen"/>ly taken in the euill part for originall sinne: but if shee be kept at home, and set a worke, in sweeping of the house, and lighting the candle, shee may in the end proue a chast virgin, fit to meete the bride<g ref="char:EOLhyphen"/>groome at his comming.</p>
+            <p>And thus you see the meanes howe to sue a di<g ref="char:EOLhyphen"/>uorce betwixt the deuill &amp; Concupiscence, and to put enmitie betwixt the seede of the Serpent, and the seede of the Woman, that although the deuill be neuer so busie in suggesting, yet Concupiscence shall not be able to conceiue sinne.</p>
+            <p>Now hauing seene how sinne is conceiued, let vs consider how it is brought forth. And heere, al<g ref="char:EOLhyphen"/>though Lust be neuer so willing to conceiue sinne, yet let not Reason, which is the <hi>Adam,</hi> and the manly part of the soule, become his Midwife, to bring it forth. For concupiscence, although it be alwaies sinfull, yet it cannot bring forth sinne, with out the consent of Reason, which will neuer con<g ref="char:EOLhyphen"/>sent to bring it foorth, so long as her eyes be open.</p>
+            <p>For sinne is a thing so vgly and deformed, and so like the father the deuill, that it is very vnreaso<g ref="char:EOLhyphen"/>nable
+<pb facs="tcp:177555:9"/> that a mans soule should yeeld vnto it. And therefore it is called aworke of darknesse, not one<g ref="char:EOLhyphen"/>lie because the deuill hideth it frō other men, when it is brought foorth, but also for that hee hideth it from our selues, in the very birth, and comming forth thereof.</p>
+            <p>And therefore it is true beeing rightly vnder<g ref="char:EOLhyphen"/>stood, that <hi>Nemo sciens peccat,</hi> no man doth know sinne, to be sinne, at the instant when he commit<g ref="char:EOLhyphen"/>teth it: For how soeuer he haue the habit of know<g ref="char:EOLhyphen"/>ledge in the generall, yet he hath lost the act there<g ref="char:EOLhyphen"/>of in particular.</p>
+            <p>The meanes the deuill vseth to hide his young<g ref="char:EOLhyphen"/>ling in the birth, is the very same that deceitfull Trades-men vse, to vtter theyr wares, they shut out the true light, and let in false lights, to cast the better glosse vpon their stuffe. So doth the deuill.</p>
+            <p>In the time of Superstition, hee put out <hi>Verbum predicatum,</hi> the light of the Word generally prea<g ref="char:EOLhyphen"/>ched, so that men did scarce know sinne in gene<g ref="char:EOLhyphen"/>rall, in these dayes he puts out <hi>Verbum applicatum,</hi> the light of the Word applied in particular, so that few doe consider what sinne is in practise: And in steede of these true lights, he sets vp false lights, to cast a fayre glosse vpon sinne.</p>
+            <pb facs="tcp:177555:9"/>
+            <p>These false lights are especially two, the one is humane Lawe, the other is humane example. By the one you shall neuer be able to prooue sinne to be sinne, vnlesse you can shewe an Act of Parlia<g ref="char:EOLhyphen"/>ment for it. By the other, you shall neuer be able to proue sinne to be sinne, vntill all great men be good men, which will not be yet a while.</p>
+            <p>By these false lights it comes to passe, that things are so vnlike themselues, as few things are knowne by their names: Wee call good euill, and euill good, and light darknesse, and darknesse light, as the Prophet Esay complaineth in his 5. Chapter. So that Drunkennesse passeth currant vnder the name of Good-fellowship; Adulterie, vnder the name of Good-nature; Couetousnesse, vnder the name of Good-husbandry; Murder, vnder the name of Good-courage; Sedition, vnder the name of Good-reformation; and Treason, vnder the name of Good-religion; and Reason beeing blin<g ref="char:EOLhyphen"/>ded by the deuills sleights, becomes a Midwife to bring forth sinne.</p>
+            <p>The meanes to make sinne an Abortiue, and to keepe it from comming into act, is to keep open the eye of Reason, both by the doctrine of the Truth in generall, and the application thereof in particular. The knowledge of the Truth in gene<g ref="char:EOLhyphen"/>rall is more easie, for which of vs is ignorant what
+<pb facs="tcp:177555:10"/> sinne is? Reason whilst shee walketh in generalls, is in her owne iurisdiction, sence, and affection; hath nothing to doe with her, but shee may freelie giue her sentence; but when she descendeth to par<g ref="char:EOLhyphen"/>ticulars, wherein all actions doe consist, and dis<g ref="char:EOLhyphen"/>puteth whether this or that particular bee a sinne, there sence and affection haue a speciall interest, so that Reason cannot giue in her verdict, vnlesse shee can ouer-rule them.</p>
+            <p>Heere is the true vse of priuate Monitors, Tu<g ref="char:EOLhyphen"/>tors, and Preachers, who may speake freely when time is, that they helpe vs to retaine the truth in particular. Admonition is called by the Greekes <hi>Noythesia,</hi> as it were the restoring, or putting of the mind in order; for when the vnderstanding is as it were beside it selfe, and out of ioynt, beeing transputed by some suddaine passion, or euill cu<g ref="char:EOLhyphen"/>stome: it is then a great benefit to haue such a one at hand, as may repose it by good admonition, and put it into order againe.</p>
+            <p>This continuall publike Preaching, is very good and necessarie, as a candle set vpon a candlesticke, to giue light to all that are in the house. But if in this night of sinne, wee will doe any profitable worke, we must eyther our selues haue a particular light of our owne in our hand, or if we cannot doe both, wee must get another to hold the candle to
+<pb facs="tcp:177555:10"/> vs, that wee may see the deformitie of sinne, least Reason be deceiued, and so taking the children of Babilon, for the children of Ierusalem, do giue her consent, and become a Midwife for the bringing forth of sinne.</p>
+            <p>And if Reason be deceiued, &amp; ouertaken in the birth of sinne, yet when it is borne, shee shall per<g ref="char:EOLhyphen"/>ceiue it plainly; and if shee can neither hinder the conception nor the birth of sinne, yet let her like the Midwiues of Egipt, kill it betimes, least it grow vp to the full height, for sinne when it is finished, will certainly bring forth death.</p>
+            <p>Indeede, euery sinne without repentance, is fi<g ref="char:EOLhyphen"/>nished, and bringeth forth death; but yet there is a growth in sinne, <hi>Nemo repente fit passimus,</hi> no man becomes a very bad man at the first dash, there bee three degrees, as it were so many ages in sin; there is 1. <hi>peccatum occultum, 2. peccatum apertum, 3. pec<g ref="char:EOLhyphen"/>catum frequentatum,</hi> secret sinne, open sinne, and customarie, or confirmed sinne.</p>
+            <p>Sinne, whilst it is secrete, and as it were in his cradle, it hath a Nurse, and that is Dissimulation, or Hypocrisie, who if she can, will keepe sin with<g ref="char:EOLhyphen"/>in doores, and if it must needes goe abroade, shee prouides a Mantle, or a Cloake to couer it with<g ref="char:EOLhyphen"/>all.</p>
+            <pb facs="tcp:177555:11"/>
+            <p>The carnall man, as long as hee can, will keepe his adultery and vnchastnesse close, but if it must needes out, he excuses it, and cloakes it with a na<g ref="char:EOLhyphen"/>turall infirmitie, as <hi>Adam,</hi> Genesis 3. <hi>Mulier quam dedisti mihi,</hi> the woman which thou gauest vnto me, she gaue vnto me, &amp; I did eate. So the proud man, if he can keepe his disobedience and treason within dores, he will, but if it must needs come a<g ref="char:EOLhyphen"/>broade, hee will couer it with a cloake of false pre<g ref="char:EOLhyphen"/>tence, either with a pretence of iustice, as <hi>Absolon,</hi> when hee intended treason against his father, hee pretended iustice for the people, saying to euerie sutor, the matters are good and righteous, but the King hath appointed no man to heare thee: O that I were made a Iudge, that I might do iustice to the people, 2. Sam. 15.</p>
+            <p>Or else with a pretence of zeale, as <hi>Korah,</hi> when he practised a schisme against <hi>Moses</hi> and <hi>Aaron,</hi> he seemed zealous for the people of God; You take too much vppon you, seeing all the congregation of the Lord is holy. Numb. 16.</p>
+            <p>So the Couetous man, if hee can, he will keepe his iniurie and oppression within doores with <hi>Ge<g ref="char:EOLhyphen"/>hezi,</hi> 2. Regum, 5. thy seruaunt hath beene no where, I haue done nothing, but that I may doe: but if the bleating of the sheepe bewray him, then he excuseth the matter with <hi>Saule,</hi> 2. Sam. 15. It
+<pb facs="tcp:177555:11"/> was the fault of his Officers: but it is no matter, he meaneth to lay it vp in <hi>pios vsus:</hi> offer sacrifice to God, you shall see one day he will found Hospitals and build Churches with it.</p>
+            <p>Thus sinne groweth from secret to open, from his child-hood to his young age, and then it needs a Nurse no longer, but Lust doth prouide her of a Tutor, and that is Presumption, who will not dis<g ref="char:EOLhyphen"/>semble the matter a whit, but openly defend it, like <hi>Aritio</hi> in the Comedie, <hi>Non est flagitium scortari adolescentulum, non est neque potare, neque sores ef<g ref="char:EOLhyphen"/>fringere,</hi> all these are no sinnes, they are but tricks of youth.</p>
+            <p>So sinne is iterated and repeated vntill it getteth strength by custome and growth to mans estate, &amp; then is it manned with obstinacie, who like a stout Champion will iustifie it against all commers, <hi>pec<g ref="char:EOLhyphen"/>cator cum venerit in profundum contemnet.</hi> Then will the Egiptian contemne <hi>Moses,</hi> Exod. 2. Who made thee a Ruler, &amp; a Iudge ouer vs? Then will <hi>Ahah</hi> reiect <hi>Micheah,</hi> I hate him, for he neuer pro<g ref="char:EOLhyphen"/>phecieth any good vnto me, 3, Reg, 2. Then will euery child in Iericho, despise <hi>Elizeus,</hi> and be bold to call him bald pate, 4, Regum, 2. And thus sinne groweth to his height, &amp; bringeth forth both pri<g ref="char:EOLhyphen"/>uate and publike, both temporall and eternall ca<g ref="char:EOLhyphen"/>lamitie.</p>
+            <pb facs="tcp:177555:12"/>
+            <p>Which if you desire to preuent, you must looke to sinne betimes, &amp; as the Prophet aduiseth, Psal. 137. Take the children of Babilon young, &amp; dash their heads against the stones. Take them young. Whilst they are young, <hi>Dum parvus est hostis in<g ref="char:EOLhyphen"/>tersire, vt virtus eius elidatur in semine. Hieron.</hi> For sinne when it is iterated, it is harder to be con<g ref="char:EOLhyphen"/>quered. <hi>Acta confirmant voluntatem, tam in bono, quam in malo,</hi> He that hath done well once, shall the more easily doe it the next time, and hee that hath done euill once, shall the more hardly resist it at the next assault.</p>
+            <p>Take them young, whilst you are young, other<g ref="char:EOLhyphen"/>wise, as sinne groweth stronger, you will growe weaker, and that sinne which now you may easily subdue, you shall not heereafter be able to wrestle with.</p>
+            <p>Our Sauiour began to purchase our saluation when he was verie young, hee shed some blood in the wound of circumcision when he was but eight dayes old, and he shewed himselfe in the Temple, when he was but twelue yeeres old▪ and shall not wee thinke it time to practise our saluation, whilst wee are young? Let vs therefore looke to it betimes, least sinne growe to bee finished, and then there bee no remedie, nor recouerie, but death.</p>
+            <pb facs="tcp:177555:12"/>
+            <p>I am now come to the fourth and last part of my Text, namely▪ the fruite of sinne, and that is death. <hi>It bringeth forth death.</hi>
+            </p>
+            <p>The fruite of sinne is double, the death of the bodie, and the death of the soule. That the death of the bodie is the fruite of sinne, it appeareth in Romans 5, By the sinne of one, death came ouer all; for surely, if there had neuer beene any disor<g ref="char:EOLhyphen"/>der of the soule, there should neuer haue been anie disease of the soule.</p>
+            <p>But I will passe ouer that which we must all passe thorough, that is the death of the body, and come to that which I pray God we may all escape, that is the death of the soule. For as death causeth the separation of the soule from the bodie, so sinne cau<g ref="char:EOLhyphen"/>seth the separation of God from the soule, where<g ref="char:EOLhyphen"/>by the soule becōmeth more lothsome vnto God, then any dead carkasse is to man. But yet as there is a difference in the separation of the soule from the body, so are there certaine degrees in the sepa<g ref="char:EOLhyphen"/>ration of God from the soule.</p>
+            <p>There is a Syncope or souning, there is an Epi<g ref="char:EOLhyphen"/>lepsy, or falling sicknes, and there is an Apoplexie, or cold Palsy, which if it be totall, is also finall. To the first answereth our ordinarie infirmities, which the iust man falleth into euery day. These the aun<g ref="char:EOLhyphen"/>cients
+<pb facs="tcp:177555:13"/> haue called Veniall sinnes, not because they are not deadly in their owne nature, but because they are recouerable by ordinary repentance, as it were by the sprinkling of water, or a little bending forward.</p>
+            <p>To the second answereth greater crimes, which they call deadly sinnes, because they do expell the Spirit of GOD, that for the time there is left no sence, nor apparance thereof, neither doth it re<g ref="char:EOLhyphen"/>turne againe without some extraordinarie repen<g ref="char:EOLhyphen"/>tance, as it were by striuing, by sweating, and bea<g ref="char:EOLhyphen"/>ring of it selfe.</p>
+            <p>To the third aunswereth customarie and obsti<g ref="char:EOLhyphen"/>nate sinnes, which although there remaine a while a little appearance of breath, or naturall warmth, yet without a verie miracle, it is vnpossible to re<g ref="char:EOLhyphen"/>couer that spirituall life, which it hath so long, and so vniuersallie excluded.</p>
+            <p>Seeing then the fruite of sinne is so dangerous, and yet so vnpossible altogether to be preuented, what remedie is there left to recouer our selues: surely there is no other meanes in the world, but the grace of GOD in Iesus Christ, offered vnto vs in his Word and Sacraments, by the ministery of his Church. For as Christ himselfe did raise 3. kinde of dead bodies in the Gospell, so hath hee
+<pb facs="tcp:177555:13"/> giuen power to his Church in his Name, to raise 3. kindes of dead soules. Hee raised one dead in the house, and that was <hi>Iairus</hi> daughter, in the fift of Marke; another dead in the gate, and that was the widdowes sonne in the 7. of Luke; &amp; a third dead in the graue, and that was <hi>Lazarus</hi> in the 11. of Iohn.</p>
+            <p>The secrete sinner is dead in the house; for the raysing of him, there is the word of Christ parti<g ref="char:EOLhyphen"/>cularly applied, which is a discerner of thoughts, &amp; intents of the hart. Hebr: 4, 12. and able to bring into captiuitie euerie thought, into the obedience of Christ. 2. Cor. 10.</p>
+            <p>The open sinner is dead in the gate, for the rai<g ref="char:EOLhyphen"/>sing of him, there is the discipline of Christ; If thou canst not reforme thy brother priuately, <hi>Die Eccle<g ref="char:EOLhyphen"/>siae,</hi> tell the Church, &amp;c. Math, 18. Christ himselfe when hee found open profanation of the Temple, hee made a scourge, and whipped them out. &amp;c. Iohn. 2.</p>
+            <p>But what shall wee doe for the customarie and obstinate sinner, which is dead in the graue? All we can doe is to pray for him as <hi>Mary</hi> did. Lord, if thou hadst beene heere, my brother <hi>Lazarus</hi> had not died, neuerthelesse, I know all things are pos<g ref="char:EOLhyphen"/>sible vnto thee.</p>
+            <pb facs="tcp:177555:14"/>
+            <p>But because wee must not alwaies stay for mira<g ref="char:EOLhyphen"/>cles, the ministerie of the sword, must be ioyned with the ministery of the word, <hi>Atque immedica<g ref="char:EOLhyphen"/>bile membrum ense recidendum est, ne pars sincera trahatur,</hi> that which cannot be cured, must be cut off.</p>
+            <p>And thus you see the description of sinne, with the true causes thereof, offered to your considera<g ref="char:EOLhyphen"/>tion by the Apostle, in the conception, the birth, the growth, and the fruite thereof. GOD of his goodnes blesse that which hee hath taught vs, that our sinnes may be killed, our soules cured, our death preuented, and our selues euerlastingly sa<g ref="char:EOLhyphen"/>ued, by the merits &amp; mediation of our deere Lord and Sauiour Iesus Christ: to whom with the Fa<g ref="char:EOLhyphen"/>ther, and the holy Ghost, three persons and one GOD, be all honor &amp; glorie, now and for euer.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Page 8. line 3. &amp; line 5.</hi> for on the sunne side, reade on the same side.</p>
+            <pb facs="tcp:177555:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
